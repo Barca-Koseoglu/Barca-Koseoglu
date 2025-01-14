@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Barca-Koseoglu
-- 👀 I’m interested in machine learning and data structures & algorithms
-- 🌱 I’m currently learning web development and data structures and algorithms
+- 👀 I’m interested in machine learning, AI, and data structures & algorithms
+- 🌱 I’m currently working on research with a mathematics professor on elliptical curves and their applications in cryptography using computer science
 - 💞️ I’m looking to collaborate on any project that will give me experience on Github and advance my coding skills.
 - 📫 How to reach me: Email me at barcakoseoglu@gmail.com
 - 😄 Pronouns: he/him
