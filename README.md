@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Barca Koseoglu
 
-I'm a senior in high school taking classes at the University of Minnesota and Metropolitan State Uiversity with a strong foundation in mathematics, programming, and analytical problem-solving. I want to pursue undergraduate studies in Data Science and Computer Science at a school like MIT.
+I'm a senior in high school taking classes at the University of Minnesota and Metropolitan State University with a strong foundation in mathematics, programming, and analytical problem-solving. I want to pursue undergraduate studies in Data Science and Computer Science at a school like MIT.
 
 My passion lies in developing machine learning models, exploring algorithmic problem-solving, and building with cloud technologies like AWS.
 
