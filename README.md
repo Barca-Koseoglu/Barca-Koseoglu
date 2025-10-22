@@ -46,8 +46,6 @@ My passion lies in developing machine learning models, exploring algorithmic pro
 
 ### Get in Touch
 
-* **📧Personal Email**: [barcakoseoglu@gmail.com](mailto:barcakoseoglu@gmail.com)
-* **School Email**: [koseo004@umn.edu](mailto:koseo004@umn.edu)
-* **LinkedIn**: [linkedin.com/in/barcakoseoglu1614](https://www.linkedin.com/in/barcakoseoglu1614)
+**📧Personal Email**: [barcakoseoglu@gmail.com](mailto:barcakoseoglu@gmail.com) | **School Email**: [koseo004@umn.edu](mailto:koseo004@umn.edu) | **LinkedIn**: [linkedin.com/in/barcakoseoglu1614](https://www.linkedin.com/in/barcakoseoglu1614)
 
 Thank you!
