@@ -1,25 +1,19 @@
-# 👋 Hi, I'm Barca Koseoglu
+# Hi! I'm Barca Koseoglu
 
-I'm a senior in high school taking classes at the University of Minnesota and Metropolitan State University with a strong foundation in mathematics, programming, and analytical problem-solving. I want to pursue undergraduate studies in Data Science and Computer Science at a school like MIT.
+I'm a senior in high school committed to the University of Illinois Ubrbana-Champaign for a B.S. in Computer Science and Statistics. 
 
 My passion lies in developing machine learning models, exploring algorithmic problem-solving, and building with cloud technologies like AWS.
 
 ---
 
-### Skills
+### Technical Skills
 
-* **Programming:** Python (Pandas, NumPy, PyTorch, Boto3), SQL, Java, C++
-* **Machine Learning:** Model Training & Evaluation, Neural Networks
-* **Cloud Technologies:** AWS (Lambda, Application Load balancer, Amazon Translate, IAM, CloudWatch)
-* **Mathematical Foundations:** Multivariable Calculus, Probability and Statistics, Linear Algebra, Discrete Math
+* **Programming**: Python, C, C++, Java, Javascript, MATLAB, R, SQL, Typescript
+* **Frameworks & Tools**: Git, Docker, React Native, Node.js, PostgreSQL, NumPy, Pandas, PyTorch, Jupyter
 
 ---
 
-### Featured Projects
-
-* **Serverless Translation API**
-    * Built a scalable, serverless microservice using AWS Lambda, Application Load Balancer (ALB), and Amazon Translate.
-    * Engineered the Lambda function in Python/Boto3 to parse JSON requests, call the translation API, and return the formatted response.
+### Projects
 
 * **Algorithmic Problem-Solving (LeetCode)**
     * Authored a GitHub repository with 100+ Python solutions showcasing mastery of data structures and algorithms.
@@ -39,13 +33,10 @@ My passion lies in developing machine learning models, exploring algorithmic pro
 
 ### Publications
 
-* **Bayler, E. & Koseoglu, B. (2025)**, *Elliptic Curves in Cryptography and Number Theory: Faster Algorithms and Rational Points*, Rose Hulman Undergaduate Mathematics Journal (Under Review)
-* *Fine-tuning and RAG techniques for Compact-Sized LLM Models* (Ongoing)
+* Bayler, E. & **Koseoglu, B.** (2025), *Elliptic Curves in Cryptography and Number Theory: Faster Algorithms and Rational Points*, Rose Hulman Undergaduate Mathematics Journal (Under Review)
 
 ---
 
 ### Get in Touch
 
-**📧Personal Email**: [barcakoseoglu@gmail.com](mailto:barcakoseoglu@gmail.com) | **School Email**: [koseo004@umn.edu](mailto:koseo004@umn.edu) | **LinkedIn**: [linkedin.com/in/barcakoseoglu1614](https://www.linkedin.com/in/barcakoseoglu1614)
-
-Thank you!
+**Personal Email**: [barcakoseoglu@gmail.com](mailto:barcakoseoglu@gmail.com) | **School Email**: [barcak2@illinois.edu](mailto:barcak2@illinois.edu) | **LinkedIn**: [linkedin.com/in/barcakoseoglu](https://www.linkedin.com/in/barcakoseoglu1614)
