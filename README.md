@@ -1,8 +1,8 @@
 # Hi! I'm Barca Koseoglu
 
-I'm a senior in high school committed to the University of Illinois Ubrbana-Champaign for a B.S. in Computer Science and Statistics. 
+I'm a senior in high school comitted to the University of Illinois Ubrbana-Champaign for a B.S. in Computer Science and Statistics. 
 
-My passion lies in developing machine learning models, exploring algorithmic problem-solving, and building with cloud technologies like AWS.
+Passionate about all things STEM, specifically AI/ML and SWE. Open to any project ideas or collaborations.
 
 ---
 
@@ -31,10 +31,12 @@ My passion lies in developing machine learning models, exploring algorithmic pro
 
 ---
 
-### Publications
+### Research Experience
 
-* Bayler, E. & **Koseoglu, B.** (2025), *Elliptic Curves in Cryptography and Number Theory: Faster Algorithms and Rational Points*, Rose Hulman Undergaduate Mathematics Journal (Under Review)
-
+Bayler, E. & **Koseoglu, B.** (2025), *Elliptic Curves in Cryptography and Number Theory: Faster Algorithms and Rational Points*, Rose Hulman Undergaduate Mathematics Journal (Under Review)
+* Developed and implemented a novel hybrid algorithm for scalar multiplication in Elliptic Curve Cryptography (ECC) using SageMath (Python), achieving a 56% processing speed increase over standard algorithms.
+* Engineered the algorithm to be resistant to timing attacks, successfully mitigating vulnerabilities associated with cryptographic runtime analysis.
+* Built automated testing pipelines to evaluate and compare advanced factoring methods, including Lenstra’s Elliptic Curve Method and Pollard’s p-1, aggregating the performance data for mentor review.
 ---
 
 ### Get in Touch
