@@ -1,14 +1,14 @@
 # Hi! I'm Barca Koseoglu
 
-I'm a senior in high school comitted to the University of Illinois Ubrbana-Champaign for a B.S. in Computer Science and Statistics. 
+I am a junior-standing freshman at the University of Illinois Urbana-Champaign for a B.S. in Computer Science and Statistics. 
 
-Passionate about all things STEM, specifically AI/ML and SWE. Open to any project ideas or collaborations.
+I'm passionate about all things STEM, specifically AI/ML and SWE. Open to any project ideas or collaborations.
 
 ---
 
 ### Technical Skills
 
-* **Programming**: Python, C, C++, Java, Javascript, MATLAB, R, SQL, Typescript
+* **Programming**: Python, C, C++, Java, Typescript, MATLAB, R, SQL
 * **Frameworks & Tools**: Git, Docker, React Native, Node.js, PostgreSQL, NumPy, Pandas, PyTorch, Jupyter
 
 ---
